@@ -49,16 +49,15 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•THE - AAHIL -OFFICAL------•◈•
-|__\~~) •||•RANA - RAJPUT---------------•◈•
-|__(-----\  •◈•------BLACK-TIGER--------•◈•
+|__(~)    •||•khamosh - prinda -OFFICAL------•◈•
+|__\~~) •||•NOMI - KING---------------•◈•
+|__(-----\  •◈•------DEVIL-KING--------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1; Aahilrna4072
+\033[1;96mAuthor KHAMOSH PRINDA NOMI KING
+\033[1;96mFacebook  KHAMOSH PRINDA خاموش پرندہ
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
 \033[1;91m======================================="""
 
@@ -92,9 +91,9 @@ CorrectPassword = "rana"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
+    username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")nomi1
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
+    	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")king
         if (password == CorrectPassword):
             print "Logged in successfully as " + username
             loop = 'false'
